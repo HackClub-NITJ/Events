@@ -1,4 +1,4 @@
 ## 2022 June Records for the Events
 ---
 
-- [18 Api](https://github.com/HackClub-NITJ/Events/blob/main/2022/June/18)
+- [18 Api](https://hackclub-nitj.github.io/Events/2022/June/18)
